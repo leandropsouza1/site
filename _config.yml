@@ -16,5 +16,10 @@ github:
     path: "/"
   repository_url: "https://github.com/leandropsouza1/site"
 
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
 title: Leandro Pessoa
 description: Local onde utilizo para colocar meus artigos, textos e post que escrevo.
