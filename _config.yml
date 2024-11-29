@@ -16,6 +16,8 @@ github:
     path: "/"
   repository_url: "https://github.com/leandropsouza1/site"
 
+repository: leandropsouza1/site
+
 plugins:
   - jekyll-feed
   - jekyll-sitemap
