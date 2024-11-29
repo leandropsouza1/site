@@ -12,7 +12,7 @@ github:
   license:
     name: MIT
   source:
-    branch: "master"
+    branch: "main"
     path: "/"
   repository_url: "https://github.com/leandropsouza1/site"
 
