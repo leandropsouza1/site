@@ -18,6 +18,8 @@ github:
 
 repository: leandropsouza1/site
 
+github: [metadata]
+
 plugins:
   - jekyll-feed
   - jekyll-sitemap
