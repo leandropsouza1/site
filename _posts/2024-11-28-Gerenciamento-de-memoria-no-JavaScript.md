@@ -2,7 +2,7 @@
 layout: post
 author: Leandro Pessoa
 tag: ConteudoTecnico Programação JavaScript
-excerpt: Neste post, vamos entender como o motor JavaScript gerencia variáveis, tipos de dados e as áreas de memória (_stack e heap_), além de explicar o funcionamento do _Garbage Collector_.
+excerpt: Neste post, vamos entender como o motor do JavaScript gerencia variáveis, tipos de dados e as áreas de memória (stack e heap), além de explicar o funcionamento do Garbage Collector.
 tag: ConteudoTecnico Programacao JavaScript
 ---
 
