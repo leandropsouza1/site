@@ -18,8 +18,6 @@ github:
 
 repository: leandropsouza1/site
 
-github: [metadata]
-
 plugins:
   - jekyll-feed
   - jekyll-sitemap
@@ -27,3 +25,4 @@ plugins:
 
 title: Leandro Pessoa
 description: Local onde utilizo para colocar meus artigos, textos e post que escrevo.
+url: https://leandropsouza1.github.io/site/
