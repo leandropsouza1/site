@@ -9,7 +9,7 @@ tag: ConteudoTecnico GerenciaDeConfiguração Deploy DevOps FeatureFlag
 
 Dando continuidade à nossa série sobre estratégias de deploy de software, vamos explorar uma nova abordagem que garante disponibilidade e confiabilidade em sistemas críticos.
 
-Se você chegou agora, no primeiro post discutimos as técnicas de [Blue-Green Deployment](./2024-11-20-Deploy-de-Software-Blue-Green.html). Mas não se preocupe, se você não leu o [primeiro post](/site/2024-11-20-Deploy-de-Software-Blue-Green.html), você pode acessar o [post anterior](/2024-11-20-Deploy-de-Software-Blue-Green.html) para mais detalhes ou acompanhar este diretamente, já que apresentaremos novos conceitos complementares.
+Se você chegou agora, no primeiro post discutimos as técnicas de [Blue-Green Deployment](/site/2024/11/20/Deploy-de-Software-Blue-Green.html). Mas não se preocupe, se você não leu o [primeiro post](/site/2024/11/20/Deploy-de-Software-Blue-Green.html), você pode acessar o [post anterior](/site/2024/11/20/Deploy-de-Software-Blue-Green.html) para mais detalhes ou acompanhar este diretamente, já que apresentaremos novos conceitos complementares.
 
 A maneira como novas funcionalidades são integradas ao sistema não apenas impacta a experiência dos usuários, mas também influencia a reputação do software no mercado. Por isso, neste segundo post, vamos falar sobre Feature Flags e aprofundar o tema, explorando estratégias ainda mais granulares e seguras para a liberação de funcionalidades.
 
