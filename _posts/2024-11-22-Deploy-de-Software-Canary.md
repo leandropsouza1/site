@@ -9,7 +9,7 @@ tag: ConteudoTecnico GerenciaDeConfiguração Deploy DevOps Canary
 
 Dando continuidade à nossa série sobre estratégias de deploy de software, vamos explorar uma nova abordagem que garante disponibilidade e confiabilidade em sistemas críticos.
 
-Se você chegou agora, nos primeiros dois posts discutimos as técnicas de [Blue-Green Deployment](./2024-11-20-Deploy-de-Software-Blue-Green.html) e [Feature Flag](./Deploy-de-Software-Feature-Flag.html). Mas não se preocupe, se você não leu os primeiros posts, você pode acessá-los para mais detalhes ou acompanhar este diretamente, já que apresentaremos novos conceitos complementares.
+Se você chegou agora, nos primeiros dois posts discutimos as técnicas de [Blue-Green Deployment](/site/2024/11/20/Deploy-de-Software-Blue-Green.htm) e [Feature Flag](/site/2024/11/21/Deploy-de-Software-Feature-Flag.html). Mas não se preocupe, se você não leu os primeiros posts, você pode acessá-los para mais detalhes ou acompanhar este diretamente, já que apresentaremos novos conceitos complementares.
 
 A maneira como novas funcionalidades são integradas ao sistema não apenas impacta a experiência dos usuários, mas também influencia a reputação do software no mercado. Por isso, neste terceiro post, vamos falar sobre Canary Release e aprofundar o tema, explorando estratégias ainda mais granulares e seguras para a liberação de funcionalidades.
 
