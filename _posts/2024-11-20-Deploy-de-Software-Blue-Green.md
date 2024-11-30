@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Leandro Pessoa
-excerpt: Artigo onde explico um pouco como funciona a técnica de deploy de software chamada Blue-Green.
+excerpt: Deploy com Alta Disponibilidade e Segurança Parte I - Começando à nossa série sobre estratégias de deploy de software, iremos explorar o método Blue Green, uma abordagem que garante disponibilidade e confiabilidade em sistemas críticos.
 tag: ConteudoTecnico GerenciaDeConfiguração Deploy DevOps BlueGreen
 ---
 
