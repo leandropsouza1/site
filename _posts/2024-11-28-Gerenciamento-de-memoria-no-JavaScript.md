@@ -14,11 +14,11 @@ Sou novo no JavaScript e estava tentando entender os tipos de dados e como funci
 
 Fui atrás de materiais para esclarecer melhor esse tema, mas tive dificuldade em encontrar **em um unico lugar** algo que explicasse esse processo de forma mais aprofundada. Por isso, resolvi escrever este artigo para ajudar quem possa ter as mesmas dúvidas que eu!
 
-Neste texto, vou abordar como o motor JavaScript gerencia variáveis, tipos de dados e as áreas de memória (_stack e heap_), além de explicar o funcionamento do _Garbage Collector_ (coleta de lixo).
+Neste texto, vamos falar como o motor JavaScript gerencia variáveis, tipos de dados e as áreas de memória (_stack e heap_), além de explicar o funcionamento do _Garbage Collector_ (coleta de lixo).
 
 ## Tipos de Dados em JavaScript: Imutáveis e Mutáveis
 
-Os tipos de dados no JavaScript podem ser divididos em duas categorias principais:
+Para entendermos como o JavaScript lida com alocação e desalocação de variáveis, primeiro precisamos entender quais são os tipos de dados disponiveis no JavaScript
 
 ### 1. Tipos Primitivos (Imutáveis)
 
@@ -45,7 +45,7 @@ Aqui, o valor original "Hello" não é modificado; em vez disso, um novo valor �
 
 ### 2. Tipos Não Primitivos (Mutáveis)
 
-Os tipos **não** primitivos são os Objects, Arrays e Functions. Eles são mutáveis, o que significa que seus **valores internos** podem ser alterados sem criar uma nova referência.
+Os tipos **não** primitivos são os Objects, Arrays e Functions. Eles são mutáveis, o que significa que seus **valores internos** podem ser alterados **sem criar uma nova referência**.
 
 Exemplo:
 
